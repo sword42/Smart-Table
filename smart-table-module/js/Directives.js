@@ -8,7 +8,8 @@
                 scope: {
                     columnCollection: '=columns',
                     dataCollection: '=rows',
-                    config: '='
+                    config: '=',
+                    actions: '='
                 },
                 replace: 'true',
                 templateUrl: templateList.smartTable,
